@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with React and Tailwind CSS, featuring smooth animations and a light/dark theme toggle.
 
+Live URL: https://portfolio-assignment-171f7g6ir-adil-shan-c-ps-projects.vercel.app/
+
 ## 🌟 Features
 
 - **Responsive Design** - Works seamlessly on desktop, tablet, and mobile devices
