@@ -26,7 +26,10 @@ export default function Skills() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4">
-        <h3 className="text-3xl font-bold text-center mb-12 dark:text-white">
+        <h3
+          className="text-3xl font-bold text-center mb-12"
+          style={{ color: "var(--text-primary)" }}
+        >
           Technical Toolkit
         </h3>
         <div className="flex flex-wrap justify-center gap-4">

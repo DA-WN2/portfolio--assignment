@@ -15,7 +15,10 @@ export default function About() {
     >
       <div className="max-w-6xl mx-auto px-4 grid md:grid-cols-2 gap-12 items-center">
         <div>
-          <h2 className="text-4xl font-bold mb-6 text-slate-900 dark:text-white">
+          <h2
+            className="text-4xl font-bold mb-6"
+            style={{ color: "var(--text-primary)" }}
+          >
             About Me
           </h2>
           <p
