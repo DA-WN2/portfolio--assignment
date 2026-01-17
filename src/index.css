@@ -82,3 +82,12 @@ body {
 .will-change-transform {
   will-change: transform, opacity;
 }
+
+/* Button fixes: ensure contact button text stays visible on hover */
+.btn-contact {
+  color: var(--text-primary);
+  transition: color 0.18s ease;
+}
+.btn-contact:hover {
+  color: var(--text-primary) !important;
+}

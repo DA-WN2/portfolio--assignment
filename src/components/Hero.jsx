@@ -53,8 +53,9 @@ export default function Hero() {
               View Projects
             </a>
             <a
-              className="border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 px-6 py-3 rounded-full font-semibold transition transform-gpu hover:-translate-y-0.5"
+              className="border border-slate-300 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800 btn-contact px-6 py-3 rounded-full font-semibold transition transform-gpu hover:-translate-y-0.5"
               href="#contact"
+              style={{ color: "var(--text-primary)" }}
             >
               Contact Me
             </a>
