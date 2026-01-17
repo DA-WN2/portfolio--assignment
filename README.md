@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with React and Tailwind CSS, featuring smooth animations and a light/dark theme toggle.
 
-Live URL: https://portfolio-assignment-r405xyays-adil-shan-c-ps-projects.vercel.app
+Live URL: https://portfolio-assignment-r405xyays-adil-shan-c-ps-projects.vercel.app/
 
 ## 🌟 Features
 
